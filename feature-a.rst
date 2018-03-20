@@ -1,7 +1,7 @@
 Feature A
 =========
 
-Subsection
+Subsection for coderfinery
 ----------
 
 Exciting documentation in here.
